@@ -1,5 +1,5 @@
 # Health-and-Fitness-Club
-Daniel Esenwa 101199099 <br>Nigel Wanga Matalanga - 101227580 <br>
+Daniel Esenwa <br>Nigel Wanga Matalanga <br>
 Link to Video - https://youtu.be/_eQyWIx5zmY
 
 This project creates a one-stop platform for club members, trainers, and staff. Members can register, set fitness goals, track progress, schedule sessions, and join classes. Trainers can manage schedules and view profiles, while admins handle bookings, equipment maintenance, schedules, billing, and payments. <br>
